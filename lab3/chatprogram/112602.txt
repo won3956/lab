@@ -1,0 +1,8 @@
+ [Sun Dec  1 21:05:04 2024] P1: /s 
+ [Sun Dec  1 21:05:10 2024] P1: hi 
+ [Sun Dec  1 21:05:24 2024] P2: hello 
+ [Sun Dec  1 21:05:42 2024] P1: my name is p1 
+ [Sun Dec  1 21:05:50 2024] P2: my name is p2 
+ [Sun Dec  1 21:06:32 2024] P1: where are you from 
+ [Sun Dec  1 21:06:38 2024] P2: im korean 
+ [Sun Dec  1 21:06:41 2024] P1: me too ! 

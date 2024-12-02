@@ -1,0 +1,3 @@
+ [Sun Dec  1 21:01:44 2024] P1: system programming 
+ [Sun Dec  1 21:01:50 2024] P1: hello 
+ [Sun Dec  1 21:01:59 2024] P1: bye 
